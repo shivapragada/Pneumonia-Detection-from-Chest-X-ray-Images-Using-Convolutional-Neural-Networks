@@ -35,4 +35,5 @@ Chest X-ray dataset from Kaggle
 This project is for educational purposes only and not for medical use.
 
 ## 👨‍💻 Author
-Your Name
+Shiva pragada
+shivapragada38@gmai.com
